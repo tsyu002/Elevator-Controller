@@ -1,6 +1,8 @@
 # Elevator-Controller
 Elevator Controller Implemented on FPGA (VHDL)
 
+In Collaboration with Viet-Huy Nguyen
+
 The design was implemented on a Digilent Basys 3 Artix-7 FPGA
 
 •	The elevator controller designed is capable of traveling from floors 1 to 9. 
