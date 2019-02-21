@@ -5,6 +5,9 @@ In Collaboration with Viet-Huy Nguyen
 
 The design was implemented on a Digilent Basys 3 Artix-7 FPGA
 
+
+Design Description:
+
 •	The elevator controller designed is capable of traveling from floors 1 to 9. 
 •	A floor request can be made from within the elevator (FS). 
 •	A request to go up can be made from floors 1 through 8 (ER).
